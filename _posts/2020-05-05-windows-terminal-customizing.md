@@ -44,8 +44,8 @@ categories: [devops, git]
 
 Я бы посоветовал для вящего удобства добавить парочку переменных среды:
 
-- `%CMDER_ROOT%` - это папка, где лежит распакованный архив
-- `%ConEmuDir%` - %CMDER_ROOT%\vendor\conemu-maximus5
+- `CMDER_ROOT` - это папка, где лежит распакованный архив
+- `ConEmuDir` - %CMDER_ROOT%\vendor\conemu-maximus5
 - По желанию можно и в `Path` добавить
 
 Далее открываем файл настроек Windows Terminal и добавляем в секцию `profiles.list` профиль:
