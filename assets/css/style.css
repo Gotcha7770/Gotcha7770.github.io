@@ -1,3 +1,7 @@
+
+/** Wrapper */
+.wrapper { max-width: calc(1000px - (30px * 2)); }
+
 /** Page content */
 .page-content { padding: 0; flex: 1; }
 

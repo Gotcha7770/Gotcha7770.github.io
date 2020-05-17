@@ -21,8 +21,8 @@
 title: Gotcha.Blog
 email: gbakanov@inbox.ru
 description: >- # this means to ignore newlines until "baseurl:"
-  Очередной блог на IT и около IT тематику.
-  Этот блог сгенерирован при помощи Jekyll и хостится на Github pages.  
+  Еще один блог программиста, что поделаешь.
+  Этот блог сгенерирован при помощи Jekyll и хостится на Github pages.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
