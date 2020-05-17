@@ -1,6 +1,8 @@
 ---
 layout: post
 title:  "Работа на языке JavaScript в Visual Studio Code"
+image: /assets/post_titles/vs_code.png
+icon: 👨‍🏭
 date:   2020-05-07 14:39:21 +0300
 categories: [dev, js, VS Code]
 ---
