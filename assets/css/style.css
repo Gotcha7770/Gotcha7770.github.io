@@ -2,11 +2,21 @@
 .page-content { padding: 0; flex: 1; }
 
 /** Posts */
-.post-img-container { padding-bottom: 30px;}
+.post-img-container { }
 
 .post-img {
     width: 100%;
     height: 30vh;
     object-fit: cover;
     object-position: top;
+}
+
+.post-icon-container {
+    font-size: 78px;
+    margin-top: -60px;
+    padding-bottom: 30px;
+}
+
+.post-icon {
+    line-height: 1em;
 }
