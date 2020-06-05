@@ -1,7 +1,6 @@
 ---
 layout: default
 ---
-<link rel="stylesheet" href="{{- 'assets/css/style.css' | relative_url -}}" />
 
 <article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
 
@@ -35,6 +34,16 @@ layout: default
         {%- if forloop.last == false %}, {% endif -%}
         {% endfor %}
         {%- endif -%}</p>
+        <div class="tags">
+          <i class="fa fa-tags" aria-hidden="true"></i>
+          {% assign sortedCategories = page.categories | sort %}
+          {% for category in sortedCategories %}
+          {% assign tag_style = site.data.tags[category].style %}
+          <span class="tag">
+            <span class="tag-link {{ tag_style }} ">{{ category }}</span>
+          </span>
+          {% endfor %}
+        </div>
     </div>
   </header>
 
