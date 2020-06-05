@@ -1,0 +1,32 @@
+devops:
+  style: orange-tag
+
+dev:
+  style: gray-tag
+
+git:
+  style: red-tag
+
+js:
+  style: yellow-tag
+
+C#:
+  style: purple-tag
+
+WPF:
+  style: green-tag
+
+VS Code:
+  style: blue-tag
+
+VisualStudio:
+  style: purple-tag
+
+design:
+  style: blue-tag
+
+node:
+  style: green-tag
+
+npm:
+  style: red-tag
