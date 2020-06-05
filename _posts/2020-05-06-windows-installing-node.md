@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "Установка Node.js и npm на Windows 10"
-image: /assets/post_titles/cmder_powerline.png
-icon: 👨‍💻
+image: /assets/post_titles/node.jpg
+icon: 📦
 date:   2020-05-06 10:40:00 +0300
 categories: [dev, js, node, npm]
 ---
