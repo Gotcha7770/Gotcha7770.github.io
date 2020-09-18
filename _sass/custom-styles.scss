@@ -1,12 +1,13 @@
+/**
+ * Page content
+ */
+ .page-content-overriden {
+    flex: 1;
+  }
 
-/** Wrapper */
-.wrapper { max-width: calc(1000px - (30px * 2)); }
-
-/** Page content */
-.page-content { padding: 0; flex: 1; }
-
-/** Posts */
-.post-img-container { }
+/**
+ *  Posts 
+ */
 
 .post-img {
     width: 100%;
