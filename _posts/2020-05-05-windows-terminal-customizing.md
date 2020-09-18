@@ -125,12 +125,12 @@ categories: [devops, git]
 
 Если все сработало как надо, вместо довольно страшной командной строки должно было получиться что-то вроде этого:
 
-![example](/assets/powerline-example.png)
+![example](/assets/post_pics/powerline-example.png)
 
 Тут уже и в git поприятнее работать. Совсем горячие парни могут найти полезным 
 [вот этот][6] репозиторий, и получить строку вида:
 
-![extra-example](/assets/powerline-extra.png)
+![extra-example](/assets/post_pics/powerline-extra.png)
 
 [1]: https://www.microsoft.com/ru-ru/p/windows-terminal-preview/9n0dx20hk701?activetab=pivot:overviewtab
 [2]: https://cmder.net/
