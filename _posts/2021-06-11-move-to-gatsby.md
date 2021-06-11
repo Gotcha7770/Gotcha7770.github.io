@@ -1,6 +1,6 @@
 ---
 layout: post
-image: /assets/post_titles/cmder_powerline.png
+image: /assets/post_titles/poster.png
 icon: 🍸
 title:  "Блог переезжает"
 date:   2021-06-11 19:30:00 +0300
